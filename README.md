@@ -8,3 +8,4 @@
 >>> * pickle
 
 
+>### the code also calculates real time costs for each part and uses package pickle to store the sorted neighbors and distance matrix
