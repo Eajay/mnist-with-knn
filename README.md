@@ -1,19 +1,4 @@
 
-## Using knn to classify 10000 testing pictures based on 60000 training pictures with Python in numpy 
->### training and testing files are available in http://yann.lecun.com/exdb/mnist/
->### require packages: 
->>> * struct ( unpack the resource files)
->>> * numpy ( calculating distance and sort the neighbors)
->>> * time ( find out the actual "wall clock" time that it took in KNN)
->>> * pickle ( store the result)
-
-
->### The code also calculates real time costs for each part and uses package pickle to store the sorted neighbors and distance matrix
- 
->### The results include accuracy rate and confusion matrix
-
-
-
 # MNIST WITH KNN
 > 1. Using knn to classify 8400 testing pictures based on 33600 training pictures with Python in numpy. 
 > 2. Using knn to classify 28000 testing picture based on 42000 training pictures and submit the result on kaggle.
@@ -24,7 +9,9 @@
 >>> * time
 >>> * csv
 
-
+>### The code also calculates real time costs for each part and uses package pickle to store the sorted neighbors and distance matrix
+ 
+>### The results include accuracy rate and confusion matrix
 
 
 
