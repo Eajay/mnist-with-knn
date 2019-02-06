@@ -17,13 +17,15 @@
 # MNIST WITH KNN
 > 1. Using knn to classify 8400 testing pictures based on 33600 training pictures with Python in numpy. 
 > 2. Using knn to classify 28000 testing picture based on 42000 training pictures and submit the result on kaggle.
-Training and testing files are available in http://yann.lecun.com/exdb/mnist/
+
+> ### Training and testing files are available in http://yann.lecun.com/exdb/mnist/
+> ### require packages:
+>>> * numpy
+>>> * time
+>>> * csv
 
 
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
 
 ## Installation
 
