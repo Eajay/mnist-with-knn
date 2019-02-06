@@ -1,4 +1,4 @@
-# MNIST WITH KNN
+
 ## Using knn to classify 10000 testing pictures based on 60000 training pictures with Python in numpy 
 >### training and testing files are available in http://yann.lecun.com/exdb/mnist/
 >### require packages: 
@@ -14,8 +14,8 @@
 
 
 
-# Product Name
-> Short blurb about what your product does.
+# MNIST WITH KNN
+>  Using knn to classify 8400 testing pictures based on 33600 training pictures with Python in numpy
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
